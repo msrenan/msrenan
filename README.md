@@ -27,7 +27,7 @@
   <h4>
     Frontend
   </h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,ts,tailwind&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark">
   <h4>
     Databases
   </h4>
