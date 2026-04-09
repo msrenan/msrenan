@@ -16,40 +16,48 @@
 </p>
 
 ---
+
 <div align="center">
-  <h2>
-    Toolkit
-  </h2>
-  <h4>
-    Backend
-  </h4>
-  <img src="https://skillicons.dev/icons?i=actix,java,spring&theme=dark">
-  <h4>
-    Frontend
-  </h4>
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark">
-  <h4>
-    Databases
-  </h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark">
-  <h4>
-    Systems
-  </h4>
-  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark">
-  <h4>
-    Infraestrutura e Redes
-  </h4>
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark">
-  <h4>
-    Baixo Nível
-  </h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark">
-  <h4>
-    Tools e scripts
-  </h4>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,git,py,bash&theme=dark">
-  
+  <h2>🛠️ Toolkit</h2>
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <h4>Backend</h4>
+        <img src="https://skillicons.dev/icons?i=actix,java,spring&theme=dark">
+      </td>
+      <td align="center" valign="top" width="33%">
+        <h4>Frontend</h4>
+        <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark">
+      </td>
+      <td align="center" valign="top" width="33%">
+        <h4>Databases</h4>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <h4>Systems</h4>
+        <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark">
+      </td>
+      <td align="center" valign="top">
+        <h4>Infraestrutura e Redes</h4>
+        <img src="https://skillicons.dev/icons?i=rust&theme=dark">
+      </td>
+      <td align="center" valign="top">
+        <h4>Baixo Nível</h4>
+        <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark">
+      </td>
+    </tr>
+    <tr>
+      <td></td> <td align="center" width="100% valign="top">
+        <h4>Tools e scripts</h4>
+        <img src="https://skillicons.dev/icons?i=vscode,docker,git,py,bash&theme=dark">
+      </td>
+      <td></td> </tr>
+  </table>
 </div>
+
+---
 
 ### 📊 GitHub Stats:
 <p align="center">
