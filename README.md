@@ -49,7 +49,7 @@
       </td>
     </tr>
     <tr>
-      <td></td> <td align="center" width="100% valign="top">
+      <td></td> <td align="center" valign="top">
         <h4>Tools e scripts</h4>
         <img src="https://skillicons.dev/icons?i=vscode,docker,git,py,bash&theme=dark">
       </td>
