@@ -62,10 +62,10 @@
 ### 📊 GitHub Stats:
 <p align="center">
 	<a href="https://github.com/TaldoCrey">
-		<img src="https://komarev.com/ghpvc/?username=taldocrey&label=Profile%20views&color=0e75b6&style=flat" alt="taldocrey" />
+		<img src="https://komarev.com/ghpvc/?username=msrenan&label=Profile%20views&color=0e75b6&style=flat" alt="taldocrey" />
 	</a>
 	<a href="https://github.com/TaldoCrey">
-		<img src="https://img.shields.io/github/followers/taldocrey?label=Followers" alt="taldocrey" />
+		<img src="https://img.shields.io/github/followers/msrenan?label=Followers" alt="taldocrey" />
 	</a>
 
 	  
@@ -74,6 +74,6 @@
 ---
 
 <p align="center">
-  <img height=180rem src="https://github-readme-streak-stats.herokuapp.com/?user=TaldoCrey&theme=tokyonight" alt="GitHub Streak" />
-	<img height=180rem src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaldoCrey&layout=compact&langs_count=10&theme=tokyonight" />
+  <img height=180rem src="https://github-readme-streak-stats.herokuapp.com/?user=msrenan&theme=tokyonight" alt="GitHub Streak" />
+	<img height=180rem src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=msrenan&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
