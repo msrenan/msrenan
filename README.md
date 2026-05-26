@@ -49,7 +49,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center" valign="top">
 		  <h4>Scripts</h4>
 		  <img src="https://skillicons.dev/icons?i=py,bash&theme=dark">
 	  </td> 
