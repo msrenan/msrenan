@@ -12,7 +12,7 @@
 <p align="center">
 	<a href="mailto:machadosantosrenan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
 	<a href="https://www.linkedin.com/in/renanms/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
-	<a href="https://github.com/TaldoCrey"><img src="https://skillicons.dev/icons?i=github&theme=dark"></a>
+	<a href="https://github.com/msrenan"><img src="https://skillicons.dev/icons?i=github&theme=dark"></a>
 </p>
 
 ---
