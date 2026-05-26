@@ -49,9 +49,13 @@
       </td>
     </tr>
     <tr>
-      <td></td> <td align="center" valign="top">
-        <h4>Tools e scripts</h4>
-        <img src="https://skillicons.dev/icons?i=vscode,docker,git,py,bash&theme=dark">
+      <td>
+		  <h4>Scripts</h4>
+		  <img src="https://skillicons.dev/icons?i=py,bash&theme=dark">
+	  </td> 
+	  <td align="center" valign="top">
+        <h4>Tools</h4>
+        <img src="https://skillicons.dev/icons?i=docker,git,postman&theme=dark">
       </td>
       <td></td> </tr>
   </table>
