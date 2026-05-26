@@ -10,9 +10,9 @@
 
 ### 📫 Vamos trocar uma ideia?
 <p align="center">
-	<a href="mailto:machadosantosrenan@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/renanms/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<a href="https://github.com/TaldoCrey"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:machadosantosrenan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
+	<a href="https://www.linkedin.com/in/renanms/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
+	<a href="https://github.com/TaldoCrey"><img src="https://skillicons.dev/icons?i=github&theme=dark"></a>
 </p>
 
 ---
